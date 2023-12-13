@@ -11,22 +11,22 @@
         "Multi Device"
     ],
     "env": {
-        "SESSION_ID": {
+        "SESSION_ID": {cyber-x@;;;UNkk2IDD#fIS_BKGMP3vwAe7O3nNLzJ9s7u-6jCFmtSzZ6o5AGPo
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
             "value": ""
         },
-        "HEROKU_API_KEY": {
+        "HEROKU_API_KEY": {fd7f779f-41cd-4312-aab7-1ccb7f1e3c6d
             "description": "Enter your heroku account api key",
             "required": true,
             "value": ""
         },
-        "HEROKU_APP_NAME": {
+        "HEROKU_APP_NAME": {anonymousbb
             "description": "Enter you pushed app Name",
             "required": true,
             "value": ""
         },
-        "WORK_TYPE": {
+        "WORK_TYPE": {public
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
             "value": "private"
